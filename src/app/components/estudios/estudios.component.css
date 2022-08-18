@@ -34,3 +34,7 @@ button {
 .menor{
     font-size: 12px;
 }
+.menor:hover{
+    background-color: #AEFEFF;
+    color: #35858B;
+  }
